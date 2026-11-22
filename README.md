@@ -1,7 +1,7 @@
 # Still — a minimal time instrument
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-white.svg)](./LICENSE)
-[![Deployed on Vercel](https://img.shields.io/badge/Vercel-deployed-white.svg)](https://vercel.com)
+[![Deployed on Vercel](https://img.shields.io/badge/Vercel-deployed-white.svg)](https://stilltime-xi.vercel.app)
 
 A full-screen stopwatch, countdown, and date timer built as a quiet, cinematic interface.
 
@@ -40,6 +40,10 @@ npm run preview  # serve the production build
 ## Stack
 
 React · TypeScript · Vite · Tailwind CSS · Framer Motion · Lucide React
+
+## Live deployment
+
+The production site is deployed on Vercel at [stilltime-xi.vercel.app](https://stilltime-xi.vercel.app). The Vercel project is connected to this repository, so every push to `main` creates a production deployment and pull requests get preview deployments.
 
 ## Contributing
 
